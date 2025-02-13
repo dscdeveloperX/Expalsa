@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2mjoH/HENQCkkg6fdSNpPRN2yyR0cOs6w56c/93mNLc=",
+  "Source": "DscApi",
+  "BasePath": "_content/DscApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\expalsa\\DscApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|x:\\expalsa\\dscapi\\dscapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|solutionrelative:dscapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|x:\\expalsa\\dscapi\\dscapi\\repositories\\catalogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|solutionrelative:dscapi\\repositories\\catalogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|x:\\expalsa\\dscapi\\dscapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|solutionrelative:dscapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|x:\\expalsa\\dscapi\\dscapi\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|solutionrelative:dscapi\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|x:\\expalsa\\dscapi\\dscapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|solutionrelative:dscapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|x:\\expalsa\\dscapi\\dscapi\\services\\catalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|solutionrelative:dscapi\\services\\catalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|x:\\expalsa\\dscapi\\dscapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|solutionrelative:dscapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|x:\\expalsa\\dscapi\\dscapi\\interfaces\\icatalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|solutionrelative:dscapi\\interfaces\\icatalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|x:\\expalsa\\dscapi\\dscapi\\interfaces\\icatalogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|solutionrelative:dscapi\\interfaces\\icatalogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|x:\\expalsa\\dscapi\\dscapi\\models\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC082C6-C3F3-442A-B660-532FCC03F1FE}|DscApi\\DscApi.csproj|solutionrelative:dscapi\\models\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 377,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cab27b98-a314-48d2-9746-efe8ba39ccb0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "X:\\expalsa\\DscApi\\DscApi\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "DscApi\\Controllers\\CatalogController.cs",
+              "ToolTip": "X:\\expalsa\\DscApi\\DscApi\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "DscApi\\Controllers\\CatalogController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:44:45.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "X:\\expalsa\\DscApi\\DscApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DscApi\\Controllers\\ProductController.cs",
+              "ToolTip": "X:\\expalsa\\DscApi\\DscApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DscApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:43:18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICatalogService.cs",
+              "DocumentMoniker": "X:\\expalsa\\DscApi\\DscApi\\Interfaces\\ICatalogService.cs",
+              "RelativeDocumentMoniker": "DscApi\\Interfaces\\ICatalogService.cs",
+              "ToolTip": "X:\\expalsa\\DscApi\\DscApi\\Interfaces\\ICatalogService.cs",
+              "RelativeToolTip": "DscApi\\Interfaces\\ICatalogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:40:02.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatalogService.cs",
+              "DocumentMoniker": "X:\\expalsa\\DscApi\\DscApi\\Services\\CatalogService.cs",
+              "RelativeDocumentMoniker": "DscApi\\Services\\CatalogService.cs",
+              "ToolTip": "X:\\expalsa\\DscApi\\DscApi\\Services\\CatalogService.cs",
+              "RelativeToolTip": "DscApi\\Services\\CatalogService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:39:30.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "X:\\expalsa\\DscApi\\DscApi\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "DscApi\\Services\\ProductService.cs",
+              "ToolTip": "X:\\expalsa\\DscApi\\DscApi\\Services\\ProductService.cs",
+              "RelativeToolTip": "DscApi\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:38:10.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICatalogRepository.cs",
+              "DocumentMoniker": "X:\\expalsa\\DscApi\\DscApi\\Interfaces\\ICatalogRepository.cs",
+              "RelativeDocumentMoniker": "DscApi\\Interfaces\\ICatalogRepository.cs",
+              "ToolTip": "X:\\expalsa\\DscApi\\DscApi\\Interfaces\\ICatalogRepository.cs",
+              "RelativeToolTip": "DscApi\\Interfaces\\ICatalogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:32:09.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatalogRepository.cs",
+              "DocumentMoniker": "X:\\expalsa\\DscApi\\DscApi\\Repositories\\CatalogRepository.cs",
+              "RelativeDocumentMoniker": "DscApi\\Repositories\\CatalogRepository.cs",
+              "ToolTip": "X:\\expalsa\\DscApi\\DscApi\\Repositories\\CatalogRepository.cs",
+              "RelativeToolTip": "DscApi\\Repositories\\CatalogRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAhwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:29:48.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "X:\\expalsa\\DscApi\\DscApi\\Models\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "DscApi\\Models\\Entity\\Product.cs",
+              "ToolTip": "X:\\expalsa\\DscApi\\DscApi\\Models\\Entity\\Product.cs",
+              "RelativeToolTip": "DscApi\\Models\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:26:59.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\expalsa\\DscApi\\DscApi\\Program.cs",
+              "RelativeDocumentMoniker": "DscApi\\Program.cs",
+              "ToolTip": "X:\\expalsa\\DscApi\\DscApi\\Program.cs",
+              "RelativeToolTip": "DscApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:16:18.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "X:\\expalsa\\DscApi\\DscApi\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DscApi\\Repositories\\ProductRepository.cs",
+              "ToolTip": "X:\\expalsa\\DscApi\\DscApi\\Repositories\\ProductRepository.cs*",
+              "RelativeToolTip": "DscApi\\Repositories\\ProductRepository.cs*",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAnwHIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:15:27.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

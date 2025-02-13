@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DscApi.props" />
+</Project>
